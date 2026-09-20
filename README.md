@@ -110,7 +110,7 @@ The project currently uses the macOS `afinfo` command to get the duration of aud
 ### Clone the Repository
 
 ```bash
-git clone <your-repository-url>
+git clone "https://github.com/khanakjain511/Terminal_Music_Player.git"
 ```
 
 Move into the project:
